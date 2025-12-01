@@ -21,7 +21,14 @@ The report summarizes key e-commerce performance metrics:
 
 🏆 Top-N ranking tables
 
----
+<p align="center">
+  <img src="e-commerce/ecommerce.png" alt="Supermarket Dashboard" width="800"/>
+</p>
+
+<p align="center">
+ 📊 Data Source: <a href="https://www.kaggle.com/datasets/tanishqpratap/e-commerce-orders-dataset/data" target="_blank">Kaggle - E-Commerce Orders Dataset</a>
+</p>
+
 ---
 
 **TR - Türkçe Açıklama**
