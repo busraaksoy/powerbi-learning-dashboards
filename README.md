@@ -52,6 +52,15 @@ Includes:
 
 📉 Work hours vs. burnout trends by job role
 
+<p align="center">
+  <img src="HRburnout/HRburnout.png" alt="Supermarket Dashboard" width="800"/>
+</p>
+
+<p align="center">
+ 📊 Data Source: <a href="https://www.kaggle.com/datasets/ankam6010/synthetic-hr-burnout-dataset/data" target="_blank">Kaggle - Synthetic HR Burnout Dataset</a>
+</p>
+
+---
 ---
 
 **TR - Türkçe Açıklama**
