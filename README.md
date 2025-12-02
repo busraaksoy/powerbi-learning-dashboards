@@ -30,6 +30,29 @@ The report summarizes key e-commerce performance metrics:
 </p>
 
 ---
+---
+## 📦 HR Burnout Dashboard
+
+This project focuses on analyzing employee burnout patterns using Power BI.
+The report highlights key workforce metrics and visualizes relationships between stress levels, satisfaction, job roles, age cohorts, and remote work models.
+
+Includes:
+
+📊 Burnout rate KPIs
+
+👥 Gender-based burnout distribution
+
+😊 Employee satisfaction segmentation
+
+📈 Stress–burnout correlation scatter plot
+
+🧩 Burnout by job roles & age groups
+
+🏠 Impact of remote work model
+
+📉 Work hours vs. burnout trends by job role
+
+---
 
 **TR - Türkçe Açıklama**
 
@@ -52,3 +75,27 @@ Bu dashboard, temel e-ticaret performans metriklerini özetlemektedir:
 🗺️ Harita görselleriyle coğrafi analiz
 
 🏆 Top-N sıralama tabloları
+
+---
+---
+
+## 📦 Project: HR Burnout Dashboard (Practice)
+
+Bu proje, çalışan tükenmişliği (burnout) ile ilgili kalıpları analiz etmek amacıyla Power BI kullanılarak hazırlanmıştır.
+Rapor, çalışan memnuniyeti, stres seviyesi, iş rolleri, yaş grupları ve uzaktan çalışma modelinin tükenmişlik üzerindeki etkilerini görselleştirir.
+
+İçerikler:
+
+📊 Tükenmişlik oranı KPI’ları
+
+👥 Cinsiyete göre tükenmişlik dağılımı
+
+😊 Memnuniyet kategorilerine göre segmentasyon
+
+📈 Stres–tükenmişlik ilişki analizi (scatter plot)
+
+🧩 İş rolü ve yaş gruplarına göre tükenmişlik dağılımı
+
+🏠 Uzaktan çalışma modelinin etkisi
+
+📉 İş rolleri bazında çalışma saatleri ve tükenmişlik trendi
