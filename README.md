@@ -22,7 +22,7 @@ The report summarizes key e-commerce performance metrics:
 🏆 Top-N ranking tables
 
 <p align="center">
-  <img src="e-commerce/ecommerce.png" alt="Supermarket Dashboard" width="800"/>
+  <img src="e-commerce/ecommerce.png" width="900"/>
 </p>
 
 <p align="center">
@@ -31,6 +31,7 @@ The report summarizes key e-commerce performance metrics:
 
 ---
 ---
+
 ## 📦 HR Burnout Dashboard
 
 This project focuses on analyzing employee burnout patterns using Power BI.
@@ -53,14 +54,17 @@ Includes:
 📉 Work hours vs. burnout trends by job role
 
 <p align="center">
-  <img src="HRburnout/HRburnout.png" alt="Supermarket Dashboard" width="800"/>
+  <img src="HRburnout/HRburnout.png" width="900"/>
 </p>
 
 <p align="center">
  📊 Data Source: <a href="https://www.kaggle.com/datasets/ankam6010/synthetic-hr-burnout-dataset/data" target="_blank">Kaggle - Synthetic HR Burnout Dataset</a>
 </p>
 
-### 📦 Adidas Sales Overview Dashboard
+---
+---
+
+## 📦 Adidas Sales Dashboard
 
 This dashboard examines Adidas sales data and presents sales, profit, and unit trends across regions, product groups, and sales channels.
 
@@ -78,6 +82,9 @@ Includes:
 
 📌 Channel Tabs — In-store, Online, and Outlet views for flexible filtering and analysis
 
+<p align="center">
+  <img src="adidas/adidas.png" width="900"/>
+</p>
 
 <p align="center">
  📊 Data Source: <a href="https://www.kaggle.com/datasets/ahmedabbas757/dataset" target="_blank">Kaggle - Adidas Sales</a>
