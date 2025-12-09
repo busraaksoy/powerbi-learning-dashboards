@@ -92,6 +92,37 @@ Includes:
 
 ---
 ---
+## 📦 Superstore Sales Dashboard
+
+This project presents a sales performance dashboard built in Power BI using the Superstore dataset.
+The report focuses on year-over-year performance, regional insights, and category-based sales breakdowns.
+
+Includes:
+
+📊 KPI cards for Sales, Profit, Quantity, and Discount
+
+🔄 YoY growth analysis
+
+🌍 Sales by region and state
+
+📈 Monthly sales trend analysis
+
+🧩 Category & sub-category breakdown
+
+🧭 Segment and ship mode distributions
+
+⭐ Top-performing states
+
+<p align="center">
+  <img src="superstore/superstore.png" width="900"/>
+</p>
+
+<p align="center">
+ 📊 Data Source: <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final" target="_blank">Kaggle - Superstore Dataset</a>
+</p>
+
+---
+---
 
 **TR - Türkçe Açıklama**
 
@@ -157,3 +188,26 @@ Bu dashboard, Adidas satış verilerini inceleyerek bölgeler, ürün grupları 
 🛍️ Ürün Analizi — Ayakkabı ve giyim kategorilerinin satış ve adet bazlı karşılaştırmaları
 
 📌 Kanal Sekmeleri — Mağaza İçi, Online ve Outlet görünümleriyle kanal bazlı analiz
+
+---
+---
+
+## 📦 Superstore Satış Dashboard
+
+Bu çalışma, Superstore veri seti kullanılarak Power BI’da oluşturulmuş bir satış performansı dashboard’ıdır.
+Rapor; yıllık karşılaştırmalar, bölgesel satış dağılımları ve kategori bazlı satış kırılımlarına odaklanır.
+
+
+📊 Satış, Kâr, Adet ve İndirim için KPI kartları
+
+🔄 Yıllık karşılaştırma (YoY) analizi
+
+🌍 Bölge ve eyalet bazında satışlar
+
+📈 Aylık satış trendi analizi
+
+🧩 Kategori ve alt kategori kırılımları
+
+🧭 Segment ve gönderi yöntemi dağılımları
+
+⭐ En yüksek performans gösteren eyaletler
